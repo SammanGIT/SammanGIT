@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @SammanGIT<br>👀 I’m interested in Programming, Problem-Solving, Game Development, Design and Video-Editing<br>🌱 I’m currently learning Python.<br>💞️ I’m looking to collaborate on Python Projects.<br>📫 How to reach me? Use my Email address or simply message me on GIT.<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love to Dance!
 
+![BG](https://github.com/user-attachments/assets/36d905e1-5e77-4413-ae9e-21040248aba8)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samman.aryal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samman-aryal-64aa6735a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skilledsamman@gmail.com) 
