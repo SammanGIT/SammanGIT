@@ -1,4 +1,3 @@
-![BG](https://github.com/user-attachments/assets/36d905e1-5e77-4413-ae9e-21040248aba8)
 
 # 💫 About Me:
 👋 Hi, I’m @SammanGIT<br>👀 I’m interested in Programming, Problem-Solving, Game Development, Design and Video-Editing<br>🌱 I’m currently learning Python.<br>💞️ I’m looking to collaborate on Python Projects.<br>📫 How to reach me? Use my Email address or simply message me on GIT.<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love to Dance!
